@@ -1,5 +1,5 @@
 # BookStore
-In this proyect we'll cread an app to sell book
+	In this proyect we'll cread an app to sell book
 
 ## Technologies for developer  this proyect:
 > Frontend: Angular
