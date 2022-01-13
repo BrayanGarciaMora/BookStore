@@ -2,11 +2,9 @@
 In this proyect we'll cread an app to sell book
 
 ## Technologies for developer  this proyect:
-> j
-> e
-> e
-> e
-> e
+> Frontend: Angular
+
+> Backend: Spring-Boot and PostgreSQL
 
 
 ## The architecture VMC
